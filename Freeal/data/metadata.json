@@ -1,0 +1,35 @@
+{
+  "last_update": "2026-10-19T20:31:04.436759",
+  "downloads": {
+    "seguridad_social\\monotributo_categorias.json": {
+      "source": "AFIP/ARCA",
+      "dataset": "Monotributo",
+      "format": "JSON",
+      "size": 1304,
+      "hash": "d28d38818d9038343ac969d65572bbf6bd3bf6dbb0e4e06152bdc5cd3b4392e0",
+      "downloaded_at": "2026-10-19T20:31:04.417133"
+    },
+    "impuestos\\regimenes_tributarios.json": {
+      "source": "AFIP/ARCA",
+      "dataset": "Regímenes Tributarios",
+      "format": "JSON",
+      "size": 840,
+      "hash": "94ecf0e188cd3ad386b69ab48f71c08f51a2ca9fa5ef90c1b0684948ab5445b8",
+      "downloaded_at": "2026-10-19T20:31:04.428182"
+    },
+    "mercado_laboral\\indicadores_mercado_laboral.json": {
+      "source": "INDEC",
+      "dataset": "Indicadores Mercado Laboral",
+      "format": "JSON",
+      "size": 448,
+      "hash": "f97a2880330772dc5e76b6d4ec7ed2e93de3ca886e5b715207302e47a3204059",
+      "downloaded_at": "2026-10-19T20:31:04.436667"
+    }
+  },
+  "indexing": {
+    "total_files": 3,
+    "indexed": 3,
+    "skipped": 0,
+    "errors": 0
+  }
+}

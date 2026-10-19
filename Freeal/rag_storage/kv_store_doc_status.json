@@ -1,0 +1,231 @@
+{
+  "doc-04421c412501a75b1027f8fb7c75764c": {
+    "status": "failed",
+    "content_summary": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Categorías del Monotributo\",\n  \"fecha_actualizacion\": \"2026-10-19T19:21:49.915069\",\n  \"categorias\": {\n    \"A\": {\n      \"limite_facturacion\": 7575000,\n      \"cuota_mensual\": 15000\n    },\n    \"B\": {\n      \"l...",
+    "content_length": 1247,
+    "created_at": "2026-10-19T22:21:49.960473+00:00",
+    "updated_at": "2026-10-19T22:26:19.568566+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_192149_62ac7535",
+    "content_hash": "04421c412501a75b1027f8fb7c75764c",
+    "metadata": {
+      "parse_start_time": 1792448509,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1792448509,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1792448510,
+      "process_end_time": 1792448779,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "error_msg": "NanoVectorDBStorage[entities] index flush failed: Embedding dimension mismatch detected: total elements (2048) cannot be evenly divided by expected dimension (1536). ",
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ]
+  },
+  "doc-843a888dd30892433e6811719762501f": {
+    "status": "failed",
+    "content_summary": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Regímenes tributarios para freelancers\",\n  \"fecha_actualizacion\": \"2026-10-19T19:21:49.928279\",\n  \"regimenes\": {\n    \"monotributo\": {\n      \"descripcion\": \"Régimen simplificado para pequeños contribuyentes...",
+    "content_length": 796,
+    "created_at": "2026-10-19T22:26:19.576553+00:00",
+    "updated_at": "2026-10-19T22:27:18.474168+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_192619_3bc3bd61",
+    "content_hash": "843a888dd30892433e6811719762501f",
+    "metadata": {
+      "parse_start_time": 1792448779,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1792448779,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1792448779,
+      "process_end_time": 1792448838,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "error_msg": "NanoVectorDBStorage[entities] index flush failed: Embedding dimension mismatch detected: total elements (16384) cannot be evenly divided by expected dimension (1536). ",
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ]
+  },
+  "doc-963f971ccfb27a827a5561f9958a946e": {
+    "status": "failed",
+    "content_summary": "{\n  \"fuente\": \"INDEC\",\n  \"descripcion\": \"Indicadores del mercado laboral argentino\",\n  \"fecha_actualizacion\": \"2026-10-19T19:21:49.945334\",\n  \"indicadores\": {\n    \"tasa_actividad\": \"Personas en edad de trabajar ocupadas o buscando empleo\",\n    \"tasa_...",
+    "content_length": 437,
+    "created_at": "2026-10-19T22:27:18.481768+00:00",
+    "updated_at": "2026-10-19T22:30:57.554065+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_192718_8f7403af",
+    "content_hash": "963f971ccfb27a827a5561f9958a946e",
+    "metadata": {
+      "parse_start_time": 1792448838,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1792448838,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1792448838,
+      "process_end_time": 1792449057,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "error_msg": "NanoVectorDBStorage[entities] index flush failed: RetryError[<Future at 0x1c2e24dd3d0 state=finished raised RateLimitError>]",
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ]
+  },
+  "doc-f72e083a1eea373081f8bce87c34d8c2": {
+    "status": "failed",
+    "content_summary": "El monotributo es un régimen simplificado para pequeños contribuyentes en Argentina. Tiene categorías de A a K con diferentes límites de facturación.",
+    "content_length": 149,
+    "created_at": "2026-10-19T22:55:39.741569+00:00",
+    "updated_at": "2026-10-19T22:56:12.592475+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_195539_dba3e1be",
+    "content_hash": "f72e083a1eea373081f8bce87c34d8c2",
+    "metadata": {
+      "parse_start_time": 1792450539,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1792450539,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1792450539,
+      "process_end_time": 1792450572,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "error_msg": "NanoVectorDBStorage[entities] index flush failed: RetryError[<Future at 0x2ade1a74aa0 state=finished raised RateLimitError>]",
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ]
+  },
+  "dup-bb24c6ee0b2f6b4750a0c54175ad480a": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-f72e083a1eea373081f8bce87c34d8c2",
+    "content_length": 149,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-19T23:27:35.884348+00:00",
+    "updated_at": "2026-10-19T23:27:35.884355+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_202735_56a3175d",
+    "error_msg": "File name already exists. Original doc_id: doc-f72e083a1eea373081f8bce87c34d8c2, Status: failed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-f72e083a1eea373081f8bce87c34d8c2",
+      "original_track_id": "insert_20261019_195539_dba3e1be"
+    }
+  },
+  "doc-7ce349737bc41ef3dce568a4e1f37f6e": {
+    "status": "processed",
+    "content_summary": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Categorías del Monotributo\",\n  \"fecha_actualizacion\": \"2026-10-19T20:31:04.405076\",\n  \"categorias\": {\n    \"A\": {\n      \"limite_facturacion\": 7575000,\n      \"cuota_mensual\": 15000\n    },\n    \"B\": {\n      \"l...",
+    "content_length": 1247,
+    "created_at": "2026-10-19T23:31:04.439413+00:00",
+    "updated_at": "2026-10-19T23:33:02.077754+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_203104_92b2ea56",
+    "content_hash": "7ce349737bc41ef3dce568a4e1f37f6e",
+    "metadata": {
+      "parse_start_time": 1792452664,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1792452664,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1792452664,
+      "process_end_time": 1792452782,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ]
+  },
+  "doc-130142a30f3d5428a77b22c5793a7000": {
+    "status": "processed",
+    "content_summary": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Regímenes tributarios para freelancers\",\n  \"fecha_actualizacion\": \"2026-10-19T20:31:04.417250\",\n  \"regimenes\": {\n    \"monotributo\": {\n      \"descripcion\": \"Régimen simplificado para pequeños contribuyentes...",
+    "content_length": 796,
+    "created_at": "2026-10-19T23:33:02.084001+00:00",
+    "updated_at": "2026-10-19T23:34:09.763945+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_203302_d5f5927e",
+    "content_hash": "130142a30f3d5428a77b22c5793a7000",
+    "metadata": {
+      "parse_start_time": 1792452782,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1792452782,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1792452782,
+      "process_end_time": 1792452849,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-130142a30f3d5428a77b22c5793a7000-chunk-000"
+    ]
+  },
+  "doc-e4cb3988c2e85a412ba74576858d77f3": {
+    "status": "processed",
+    "content_summary": "{\n  \"fuente\": \"INDEC\",\n  \"descripcion\": \"Indicadores del mercado laboral argentino\",\n  \"fecha_actualizacion\": \"2026-10-19T20:31:04.428278\",\n  \"indicadores\": {\n    \"tasa_actividad\": \"Personas en edad de trabajar ocupadas o buscando empleo\",\n    \"tasa_...",
+    "content_length": 437,
+    "created_at": "2026-10-19T23:34:09.769778+00:00",
+    "updated_at": "2026-10-19T23:34:59.801666+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_203409_3d430cb8",
+    "content_hash": "e4cb3988c2e85a412ba74576858d77f3",
+    "metadata": {
+      "parse_start_time": 1792452849,
+      "parse_stage_skipped": true,
+      "parse_format": "raw",
+      "parse_engine": "legacy",
+      "analyzing_start_time": 1792452849,
+      "analyzing_stage_skipped": true,
+      "kg_write_state": "graph_mutation_started",
+      "process_start_time": 1792452849,
+      "process_end_time": 1792452899,
+      "chunk_method": "legacy_chunking_func",
+      "chunk_opts": "size=1200, split_only=False, overlap=100"
+    },
+    "chunks_count": 1,
+    "chunks_list": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ]
+  },
+  "dup-74c57bffd06a0fdfa2ba39f3e7ed45b0": {
+    "status": "failed",
+    "content_summary": "[DUPLICATE:filename] Original document: doc-f72e083a1eea373081f8bce87c34d8c2",
+    "content_length": 149,
+    "chunks_count": 0,
+    "chunks_list": [],
+    "created_at": "2026-10-19T23:36:54.160989+00:00",
+    "updated_at": "2026-10-19T23:36:54.160996+00:00",
+    "file_path": "unknown_source",
+    "track_id": "insert_20261019_203654_d3b48f26",
+    "error_msg": "File name already exists. Original doc_id: doc-f72e083a1eea373081f8bce87c34d8c2, Status: failed",
+    "metadata": {
+      "is_duplicate": true,
+      "duplicate_kind": "filename",
+      "original_doc_id": "doc-f72e083a1eea373081f8bce87c34d8c2",
+      "original_track_id": "insert_20261019_195539_dba3e1be"
+    }
+  }
+}

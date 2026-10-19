@@ -1,0 +1,542 @@
+{
+  "AFIP/ARCA<SEP>Monotributo": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "AFIP/ARCA<SEP>Monotributo"
+  },
+  "Monotributo<SEP>Monotributo Category A": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category A"
+  },
+  "Monotributo<SEP>Monotributo Category B": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category B"
+  },
+  "Monotributo<SEP>Monotributo Category C": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category C"
+  },
+  "Monotributo<SEP>Monotributo Category D": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category D"
+  },
+  "Monotributo<SEP>Monotributo Category E": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category E"
+  },
+  "Billing Limit<SEP>Monotributo Category A": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category A"
+  },
+  "Monotributo<SEP>Monotributo Category F": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category F"
+  },
+  "Monotributo Category A<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category A<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category B": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category B"
+  },
+  "Monotributo<SEP>Monotributo Category G": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category G"
+  },
+  "Monotributo Category B<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category B<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category C": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category C"
+  },
+  "Monotributo<SEP>Monotributo Category H": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category H"
+  },
+  "Monotributo Category C<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category C<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category D": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category D"
+  },
+  "Monotributo<SEP>Monotributo Category I": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category I"
+  },
+  "Monotributo Category E<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category E<SEP>Monthly Fee"
+  },
+  "Monotributo<SEP>Monotributo Category J": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category J"
+  },
+  "Monotributo Category D<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category D<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category E": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category E"
+  },
+  "Monotributo<SEP>Monotributo Category K": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Monotributo Category K"
+  },
+  "Monotributo Category F<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category F<SEP>Monthly Fee"
+  },
+  "Monotributo Category G<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category G<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category F": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category F"
+  },
+  "Monotributo Category H<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category H<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category G": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category G"
+  },
+  "Monotributo Category I<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category I<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category H": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category H"
+  },
+  "Autonomous Contributions<SEP>Minimum Autonomous Contribution": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Autonomous Contributions<SEP>Minimum Autonomous Contribution"
+  },
+  "Monotributo Category J<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category J<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category I": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category I"
+  },
+  "Autonomous Contributions<SEP>Maximum Autonomous Contribution": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Autonomous Contributions<SEP>Maximum Autonomous Contribution"
+  },
+  "Monotributo<SEP>Update Date": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo<SEP>Update Date"
+  },
+  "Monotributo Category K<SEP>Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category K<SEP>Monthly Fee"
+  },
+  "Billing Limit<SEP>Monotributo Category J": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category J"
+  },
+  "Autonomous Contributions<SEP>Base Calculation for Autonomous Contributions": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Autonomous Contributions<SEP>Base Calculation for Autonomous Contributions"
+  },
+  "Billing Limit<SEP>Monotributo Category K": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit<SEP>Monotributo Category K"
+  },
+  "Autonomous Contributions<SEP>Monotributo": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Autonomous Contributions<SEP>Monotributo"
+  },
+  "AFIP/ARCA<SEP>Tax regimes for freelancers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "AFIP/ARCA<SEP>Tax regimes for freelancers"
+  },
+  "Monotributo<SEP>Tax regimes for freelancers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Monotributo<SEP>Tax regimes for freelancers"
+  },
+  "Autónomos<SEP>Tax regimes for freelancers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Autónomos<SEP>Tax regimes for freelancers"
+  },
+  "Monotributo<SEP>Simplified regime for small taxpayers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Monotributo<SEP>Simplified regime for small taxpayers"
+  },
+  "Autónomos<SEP>General regime for self-employed workers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Autónomos<SEP>General regime for self-employed workers"
+  },
+  "INDEC<SEP>Indicadores Del Mercado Laboral Argentino": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "INDEC<SEP>Indicadores Del Mercado Laboral Argentino"
+  },
+  "Indicadores Del Mercado Laboral Argentino<SEP>Tasa Actividad": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Indicadores Del Mercado Laboral Argentino<SEP>Tasa Actividad"
+  },
+  "Indicadores Del Mercado Laboral Argentino<SEP>Tasa Empleo": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Indicadores Del Mercado Laboral Argentino<SEP>Tasa Empleo"
+  },
+  "Indicadores Del Mercado Laboral Argentino<SEP>Tasa Desempleo": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Indicadores Del Mercado Laboral Argentino<SEP>Tasa Desempleo"
+  },
+  "Fecha Actualizacion<SEP>Indicadores Del Mercado Laboral Argentino": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Fecha Actualizacion<SEP>Indicadores Del Mercado Laboral Argentino"
+  },
+  "Indicadores Del Mercado Laboral Argentino<SEP>Nota": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Indicadores Del Mercado Laboral Argentino<SEP>Nota"
+  },
+  "Monotributo<SEP>Small Taxpayers": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "Monotributo<SEP>Small Taxpayers"
+  },
+  "Argentina<SEP>Monotributo": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "Argentina<SEP>Monotributo"
+  },
+  "Categories A to K<SEP>Monotributo": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "Categories A to K<SEP>Monotributo"
+  },
+  "Billing Limits<SEP>Categories A to K": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "Billing Limits<SEP>Categories A to K"
+  },
+  "Aportes autonomos<SEP>Concept": {
+    "chunk_ids": [
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "Aportes autonomos<SEP>Concept"
+  },
+  "Aportes autonomos<SEP>QuantitativeData": {
+    "chunk_ids": [
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "Aportes autonomos<SEP>QuantitativeData"
+  },
+  ".organization<SEP>Administración Nacional de la Seguridad Social": {
+    "chunk_ids": [
+      "doc-130142a30f3d5428a77b22c5793a7000-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452848,
+    "update_time": 1792452848,
+    "_id": ".organization<SEP>Administración Nacional de la Seguridad Social"
+  },
+  "INDEC<SEP>tasa_actividad": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "INDEC<SEP>tasa_actividad"
+  },
+  "INDEC<SEP>tasa_empleo": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "INDEC<SEP>tasa_empleo"
+  },
+  "INDEC<SEP>tasa_desempleo": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "INDEC<SEP>tasa_desempleo"
+  }
+}

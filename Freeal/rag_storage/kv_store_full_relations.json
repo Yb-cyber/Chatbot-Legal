@@ -1,0 +1,298 @@
+{
+  "doc-04421c412501a75b1027f8fb7c75764c": {
+    "relation_pairs": [
+      [
+        "AFIP/ARCA",
+        "Monotributo"
+      ],
+      [
+        "Autonomous Contributions",
+        "Base Calculation for Autonomous Contributions"
+      ],
+      [
+        "Autonomous Contributions",
+        "Maximum Autonomous Contribution"
+      ],
+      [
+        "Autonomous Contributions",
+        "Minimum Autonomous Contribution"
+      ],
+      [
+        "Autonomous Contributions",
+        "Monotributo"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category A"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category B"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category C"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category D"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category E"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category F"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category G"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category H"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category I"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category J"
+      ],
+      [
+        "Billing Limit",
+        "Monotributo Category K"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category A"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category B"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category C"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category D"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category E"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category F"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category G"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category H"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category I"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category J"
+      ],
+      [
+        "Monotributo",
+        "Monotributo Category K"
+      ],
+      [
+        "Monotributo",
+        "Update Date"
+      ],
+      [
+        "Monotributo Category A",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category B",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category C",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category D",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category E",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category F",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category G",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category H",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category I",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category J",
+        "Monthly Fee"
+      ],
+      [
+        "Monotributo Category K",
+        "Monthly Fee"
+      ]
+    ],
+    "count": 39,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "doc-04421c412501a75b1027f8fb7c75764c"
+  },
+  "doc-843a888dd30892433e6811719762501f": {
+    "relation_pairs": [
+      [
+        "AFIP/ARCA",
+        "Tax regimes for freelancers"
+      ],
+      [
+        "Autónomos",
+        "General regime for self-employed workers"
+      ],
+      [
+        "Autónomos",
+        "Tax regimes for freelancers"
+      ],
+      [
+        "Monotributo",
+        "Simplified regime for small taxpayers"
+      ],
+      [
+        "Monotributo",
+        "Tax regimes for freelancers"
+      ]
+    ],
+    "count": 5,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "doc-843a888dd30892433e6811719762501f"
+  },
+  "doc-963f971ccfb27a827a5561f9958a946e": {
+    "relation_pairs": [
+      [
+        "Fecha Actualizacion",
+        "Indicadores Del Mercado Laboral Argentino"
+      ],
+      [
+        "INDEC",
+        "Indicadores Del Mercado Laboral Argentino"
+      ],
+      [
+        "Indicadores Del Mercado Laboral Argentino",
+        "Nota"
+      ],
+      [
+        "Indicadores Del Mercado Laboral Argentino",
+        "Tasa Actividad"
+      ],
+      [
+        "Indicadores Del Mercado Laboral Argentino",
+        "Tasa Desempleo"
+      ],
+      [
+        "Indicadores Del Mercado Laboral Argentino",
+        "Tasa Empleo"
+      ]
+    ],
+    "count": 6,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "doc-963f971ccfb27a827a5561f9958a946e"
+  },
+  "doc-f72e083a1eea373081f8bce87c34d8c2": {
+    "relation_pairs": [
+      [
+        "Argentina",
+        "Monotributo"
+      ],
+      [
+        "Billing Limits",
+        "Categories A to K"
+      ],
+      [
+        "Categories A to K",
+        "Monotributo"
+      ],
+      [
+        "Monotributo",
+        "Small Taxpayers"
+      ]
+    ],
+    "count": 4,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "doc-f72e083a1eea373081f8bce87c34d8c2"
+  },
+  "doc-7ce349737bc41ef3dce568a4e1f37f6e": {
+    "relation_pairs": [
+      [
+        "Aportes autonomos",
+        "Concept"
+      ],
+      [
+        "Aportes autonomos",
+        "QuantitativeData"
+      ]
+    ],
+    "count": 2,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "doc-7ce349737bc41ef3dce568a4e1f37f6e"
+  },
+  "doc-130142a30f3d5428a77b22c5793a7000": {
+    "relation_pairs": [
+      [
+        ".organization",
+        "Administración Nacional de la Seguridad Social"
+      ]
+    ],
+    "count": 1,
+    "create_time": 1792452848,
+    "update_time": 1792452848,
+    "_id": "doc-130142a30f3d5428a77b22c5793a7000"
+  },
+  "doc-e4cb3988c2e85a412ba74576858d77f3": {
+    "relation_pairs": [
+      [
+        "INDEC",
+        "tasa_actividad"
+      ],
+      [
+        "INDEC",
+        "tasa_desempleo"
+      ],
+      [
+        "INDEC",
+        "tasa_empleo"
+      ]
+    ],
+    "count": 3,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "doc-e4cb3988c2e85a412ba74576858d77f3"
+  }
+}

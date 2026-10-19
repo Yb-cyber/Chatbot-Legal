@@ -1,0 +1,121 @@
+{
+  "doc-04421c412501a75b1027f8fb7c75764c": {
+    "content": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Categorías del Monotributo\",\n  \"fecha_actualizacion\": \"2026-10-19T19:21:49.915069\",\n  \"categorias\": {\n    \"A\": {\n      \"limite_facturacion\": 7575000,\n      \"cuota_mensual\": 15000\n    },\n    \"B\": {\n      \"limite_facturacion\": 11362500,\n      \"cuota_mensual\": 22000\n    },\n    \"C\": {\n      \"limite_facturacion\": 15150000,\n      \"cuota_mensual\": 30000\n    },\n    \"D\": {\n      \"limite_facturacion\": 18937500,\n      \"cuota_mensual\": 40000\n    },\n    \"E\": {\n      \"limite_facturacion\": 22725000,\n      \"cuota_mensual\": 50000\n    },\n    \"F\": {\n      \"limite_facturacion\": 26512500,\n      \"cuota_mensual\": 60000\n    },\n    \"G\": {\n      \"limite_facturacion\": 30300000,\n      \"cuota_mensual\": 70000\n    },\n    \"H\": {\n      \"limite_facturacion\": 37875000,\n      \"cuota_mensual\": 90000\n    },\n    \"I\": {\n      \"limite_facturacion\": 45450000,\n      \"cuota_mensual\": 110000\n    },\n    \"J\": {\n      \"limite_facturacion\": 53025000,\n      \"cuota_mensual\": 130000\n    },\n    \"K\": {\n      \"limite_facturacion\": 60600000,\n      \"cuota_mensual\": 150000\n    }\n  },\n  \"aportes_autonomos\": {\n    \"minimo\": 15000,\n    \"maximo\": 150000,\n    \"base_calculo\": 70000\n  },\n  \"nota\": \"Valores aproximados de referencia para pruebas\"\n}",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "04421c412501a75b1027f8fb7c75764c",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1792448509,
+    "update_time": 1792448509,
+    "_id": "doc-04421c412501a75b1027f8fb7c75764c"
+  },
+  "doc-843a888dd30892433e6811719762501f": {
+    "content": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Regímenes tributarios para freelancers\",\n  \"fecha_actualizacion\": \"2026-10-19T19:21:49.928279\",\n  \"regimenes\": {\n    \"monotributo\": {\n      \"descripcion\": \"Régimen simplificado para pequeños contribuyentes\",\n      \"categorias\": [\n        \"A\",\n        \"B\",\n        \"C\",\n        \"D\",\n        \"E\",\n        \"F\",\n        \"G\",\n        \"H\",\n        \"I\",\n        \"J\",\n        \"K\"\n      ],\n      \"obligaciones\": [\n        \"Facturación mensual\",\n        \"Pago de cuota mensual\"\n      ]\n    },\n    \"autonomos\": {\n      \"descripcion\": \"Régimen general para trabajadores autónomos\",\n      \"obligaciones\": [\n        \"Inscripción AFIP\",\n        \"Aportes seguridad social\",\n        \"Facturación\"\n      ]\n    }\n  },\n  \"nota\": \"Información de referencia para pruebas\"\n}",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "843a888dd30892433e6811719762501f",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1792448779,
+    "update_time": 1792448779,
+    "_id": "doc-843a888dd30892433e6811719762501f"
+  },
+  "doc-963f971ccfb27a827a5561f9958a946e": {
+    "content": "{\n  \"fuente\": \"INDEC\",\n  \"descripcion\": \"Indicadores del mercado laboral argentino\",\n  \"fecha_actualizacion\": \"2026-10-19T19:21:49.945334\",\n  \"indicadores\": {\n    \"tasa_actividad\": \"Personas en edad de trabajar ocupadas o buscando empleo\",\n    \"tasa_empleo\": \"Personas en edad de trabajar que están ocupadas\",\n    \"tasa_desempleo\": \"Personas en la fuerza de trabajo desocupadas\"\n  },\n  \"nota\": \"Definiciones de referencia para pruebas\"\n}",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "963f971ccfb27a827a5561f9958a946e",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1792448838,
+    "update_time": 1792448838,
+    "_id": "doc-963f971ccfb27a827a5561f9958a946e"
+  },
+  "doc-f72e083a1eea373081f8bce87c34d8c2": {
+    "content": "El monotributo es un régimen simplificado para pequeños contribuyentes en Argentina. Tiene categorías de A a K con diferentes límites de facturación.",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "f72e083a1eea373081f8bce87c34d8c2",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1792450539,
+    "update_time": 1792450539,
+    "_id": "doc-f72e083a1eea373081f8bce87c34d8c2"
+  },
+  "doc-7ce349737bc41ef3dce568a4e1f37f6e": {
+    "content": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Categorías del Monotributo\",\n  \"fecha_actualizacion\": \"2026-10-19T20:31:04.405076\",\n  \"categorias\": {\n    \"A\": {\n      \"limite_facturacion\": 7575000,\n      \"cuota_mensual\": 15000\n    },\n    \"B\": {\n      \"limite_facturacion\": 11362500,\n      \"cuota_mensual\": 22000\n    },\n    \"C\": {\n      \"limite_facturacion\": 15150000,\n      \"cuota_mensual\": 30000\n    },\n    \"D\": {\n      \"limite_facturacion\": 18937500,\n      \"cuota_mensual\": 40000\n    },\n    \"E\": {\n      \"limite_facturacion\": 22725000,\n      \"cuota_mensual\": 50000\n    },\n    \"F\": {\n      \"limite_facturacion\": 26512500,\n      \"cuota_mensual\": 60000\n    },\n    \"G\": {\n      \"limite_facturacion\": 30300000,\n      \"cuota_mensual\": 70000\n    },\n    \"H\": {\n      \"limite_facturacion\": 37875000,\n      \"cuota_mensual\": 90000\n    },\n    \"I\": {\n      \"limite_facturacion\": 45450000,\n      \"cuota_mensual\": 110000\n    },\n    \"J\": {\n      \"limite_facturacion\": 53025000,\n      \"cuota_mensual\": 130000\n    },\n    \"K\": {\n      \"limite_facturacion\": 60600000,\n      \"cuota_mensual\": 150000\n    }\n  },\n  \"aportes_autonomos\": {\n    \"minimo\": 15000,\n    \"maximo\": 150000,\n    \"base_calculo\": 70000\n  },\n  \"nota\": \"Valores aproximados de referencia para pruebas\"\n}",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "7ce349737bc41ef3dce568a4e1f37f6e",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1792452664,
+    "update_time": 1792452664,
+    "_id": "doc-7ce349737bc41ef3dce568a4e1f37f6e"
+  },
+  "doc-130142a30f3d5428a77b22c5793a7000": {
+    "content": "{\n  \"fuente\": \"AFIP/ARCA\",\n  \"descripcion\": \"Regímenes tributarios para freelancers\",\n  \"fecha_actualizacion\": \"2026-10-19T20:31:04.417250\",\n  \"regimenes\": {\n    \"monotributo\": {\n      \"descripcion\": \"Régimen simplificado para pequeños contribuyentes\",\n      \"categorias\": [\n        \"A\",\n        \"B\",\n        \"C\",\n        \"D\",\n        \"E\",\n        \"F\",\n        \"G\",\n        \"H\",\n        \"I\",\n        \"J\",\n        \"K\"\n      ],\n      \"obligaciones\": [\n        \"Facturación mensual\",\n        \"Pago de cuota mensual\"\n      ]\n    },\n    \"autonomos\": {\n      \"descripcion\": \"Régimen general para trabajadores autónomos\",\n      \"obligaciones\": [\n        \"Inscripción AFIP\",\n        \"Aportes seguridad social\",\n        \"Facturación\"\n      ]\n    }\n  },\n  \"nota\": \"Información de referencia para pruebas\"\n}",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "130142a30f3d5428a77b22c5793a7000",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1792452782,
+    "update_time": 1792452782,
+    "_id": "doc-130142a30f3d5428a77b22c5793a7000"
+  },
+  "doc-e4cb3988c2e85a412ba74576858d77f3": {
+    "content": "{\n  \"fuente\": \"INDEC\",\n  \"descripcion\": \"Indicadores del mercado laboral argentino\",\n  \"fecha_actualizacion\": \"2026-10-19T20:31:04.428278\",\n  \"indicadores\": {\n    \"tasa_actividad\": \"Personas en edad de trabajar ocupadas o buscando empleo\",\n    \"tasa_empleo\": \"Personas en edad de trabajar que están ocupadas\",\n    \"tasa_desempleo\": \"Personas en la fuerza de trabajo desocupadas\"\n  },\n  \"nota\": \"Definiciones de referencia para pruebas\"\n}",
+    "file_path": "unknown_source",
+    "parse_format": "raw",
+    "content_hash": "e4cb3988c2e85a412ba74576858d77f3",
+    "chunk_options": {
+      "chunk_token_size": 1200,
+      "fixed_token": {
+        "split_by_character": null,
+        "split_by_character_only": false,
+        "chunk_overlap_token_size": 100
+      }
+    },
+    "create_time": 1792452849,
+    "update_time": 1792452849,
+    "_id": "doc-e4cb3988c2e85a412ba74576858d77f3"
+  }
+}

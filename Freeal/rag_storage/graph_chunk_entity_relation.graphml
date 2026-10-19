@@ -1,0 +1,1015 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="truncate" attr.type="string"/>
+<key id="d12" for="edge" attr.name="created_at" attr.type="long"/>
+<key id="d11" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d10" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d9" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d8" for="edge" attr.name="description" attr.type="string"/>
+<key id="d7" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d6" for="node" attr.name="truncate" attr.type="string"/>
+<key id="d5" for="node" attr.name="created_at" attr.type="long"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="AFIP/ARCA">
+  <data key="d0">AFIP/ARCA</data>
+  <data key="d1">organization</data>
+  <data key="d2">Argentine tax authority that provides the Monotributo category data.&lt;SEP&gt;Argentine tax authority (AFIP) through its ARCA platform that provides tax regimes for freelancers.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000&lt;SEP&gt;doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448836</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo">
+  <data key="d0">Monotributo</data>
+  <data key="d1">concept</data>
+  <data key="d2">Argentine simplified tax regime organized into categories with billing limits and monthly fees.&lt;SEP&gt;Simplified tax regime for small taxpayers, featuring categories A through K and obligations of monthly billing and fee payment.&lt;SEP&gt;Monotributo is a simplified regime for small taxpayers in Argentina.&lt;SEP&gt;Other</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000&lt;SEP&gt;doc-843a888dd30892433e6811719762501f-chunk-000&lt;SEP&gt;doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000&lt;SEP&gt;doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452779</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category A">
+  <data key="d0">Monotributo Category A</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category A with a billing limit of 7,575,000 and a monthly fee of 15,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category B">
+  <data key="d0">Monotributo Category B</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category B with a billing limit of 11,362,500 and a monthly fee of 22,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category C">
+  <data key="d0">Monotributo Category C</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category C with a billing limit of 15,150,000 and a monthly fee of 30,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category D">
+  <data key="d0">Monotributo Category D</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category D with a billing limit of 18,937,500 and a monthly fee of 40,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category E">
+  <data key="d0">Monotributo Category E</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category E with a billing limit of 22,725,000 and a monthly fee of 50,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category F">
+  <data key="d0">Monotributo Category F</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category F with a billing limit of 26,512,500 and a monthly fee of 60,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category G">
+  <data key="d0">Monotributo Category G</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category G with a billing limit of 30,300,000 and a monthly fee of 70,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category H">
+  <data key="d0">Monotributo Category H</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category H with a billing limit of 37,875,000 and a monthly fee of 90,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category I">
+  <data key="d0">Monotributo Category I</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category I with a billing limit of 45,450,000 and a monthly fee of 110,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category J">
+  <data key="d0">Monotributo Category J</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category J with a billing limit of 53,025,000 and a monthly fee of 130,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monotributo Category K">
+  <data key="d0">Monotributo Category K</data>
+  <data key="d1">concept</data>
+  <data key="d2">Monotributo tax category K with a billing limit of 60,600,000 and a monthly fee of 150,000.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Billing Limit">
+  <data key="d0">Billing Limit</data>
+  <data key="d1">data</data>
+  <data key="d2">Maximum invoicing amount allowed for each Monotributo category.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Monthly Fee">
+  <data key="d0">Monthly Fee</data>
+  <data key="d1">data</data>
+  <data key="d2">Fixed monthly payment required for each Monotributo category.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Autonomous Contributions">
+  <data key="d0">Autonomous Contributions</data>
+  <data key="d1">concept</data>
+  <data key="d2">Contribution range for autonomous workers defined by minimum, maximum, and base calculation values.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Minimum Autonomous Contribution">
+  <data key="d0">Minimum Autonomous Contribution</data>
+  <data key="d1">data</data>
+  <data key="d2">Minimum contribution amount of 15,000 for autonomous workers.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Maximum Autonomous Contribution">
+  <data key="d0">Maximum Autonomous Contribution</data>
+  <data key="d1">data</data>
+  <data key="d2">Maximum contribution amount of 150,000 for autonomous workers.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Base Calculation for Autonomous Contributions">
+  <data key="d0">Base Calculation for Autonomous Contributions</data>
+  <data key="d1">data</data>
+  <data key="d2">Base value of 70,000 used for calculating autonomous contributions.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Update Date">
+  <data key="d0">Update Date</data>
+  <data key="d1">data</data>
+  <data key="d2">Date when the Monotributo category values were last updated, 2026-10-19T19:21:49.915069.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Reference Note">
+  <data key="d0">Reference Note</data>
+  <data key="d1">content</data>
+  <data key="d2">Note stating that the values are approximate references for testing.</data>
+  <data key="d3">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448777</data>
+  <data key="d6"></data>
+</node>
+<node id="Tax regimes for freelancers">
+  <data key="d0">Tax regimes for freelancers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Regulatory frameworks and obligations applicable to independent workers, including Monotributo and Autónomos options.</data>
+  <data key="d3">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448836</data>
+  <data key="d6"></data>
+</node>
+<node id="Simplified regime for small taxpayers">
+  <data key="d0">Simplified regime for small taxpayers</data>
+  <data key="d1">concept</data>
+  <data key="d2">A tax structure that eases compliance for small contributors, exemplified by the Monotributo categories and obligations.</data>
+  <data key="d3">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448836</data>
+  <data key="d6"></data>
+</node>
+<node id="Autónomos">
+  <data key="d0">Autónomos</data>
+  <data key="d1">concept</data>
+  <data key="d2">General tax regime for self-employed workers, requiring AFIP registration, social security contributions, and billing.</data>
+  <data key="d3">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448836</data>
+  <data key="d6"></data>
+</node>
+<node id="General regime for self-employed workers">
+  <data key="d0">General regime for self-employed workers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Comprehensive tax system governing independent professionals, detailed under the Autónomos regime.</data>
+  <data key="d3">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448836</data>
+  <data key="d6"></data>
+</node>
+<node id="Reference information for testing">
+  <data key="d0">Reference information for testing</data>
+  <data key="d1">content</data>
+  <data key="d2">Note indicating that the provided information is intended for testing purposes.</data>
+  <data key="d3">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448836</data>
+  <data key="d6"></data>
+</node>
+<node id="Update timestamp">
+  <data key="d0">Update timestamp</data>
+  <data key="d1">data</data>
+  <data key="d2">Timestamp indicating last update of the information, 2026-10-19T19:21:49.928279.</data>
+  <data key="d3">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792448836</data>
+  <data key="d6"></data>
+</node>
+<node id="INDEC">
+  <data key="d0">INDEC</data>
+  <data key="d1">organization</data>
+  <data key="d2">The source of the data, identified as INDEC&lt;SEP&gt;Other</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000&lt;SEP&gt;doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<node id="Mercado Laboral Argentino">
+  <data key="d0">Mercado Laboral Argentino</data>
+  <data key="d1">concept</data>
+  <data key="d2">Refers to the Argentine labor market, to which the indicators pertain</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792449047</data>
+  <data key="d6"></data>
+</node>
+<node id="Indicadores Del Mercado Laboral Argentino">
+  <data key="d0">Indicadores Del Mercado Laboral Argentino</data>
+  <data key="d1">data</data>
+  <data key="d2">A set of labor market indicators for Argentina, including activity rate, employment rate, and unemployment rate</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792449047</data>
+  <data key="d6"></data>
+</node>
+<node id="Tasa Actividad">
+  <data key="d0">Tasa Actividad</data>
+  <data key="d1">concept</data>
+  <data key="d2">Defines the activity rate as persons of working age who are employed or seeking employment</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792449047</data>
+  <data key="d6"></data>
+</node>
+<node id="Tasa Empleo">
+  <data key="d0">Tasa Empleo</data>
+  <data key="d1">concept</data>
+  <data key="d2">Defines the employment rate as persons of working age who are employed</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792449047</data>
+  <data key="d6"></data>
+</node>
+<node id="Tasa Desempleo">
+  <data key="d0">Tasa Desempleo</data>
+  <data key="d1">concept</data>
+  <data key="d2">Defines the unemployment rate as persons in the labor force who are unemployed</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792449047</data>
+  <data key="d6"></data>
+</node>
+<node id="Fecha Actualizacion">
+  <data key="d0">Fecha Actualizacion</data>
+  <data key="d1">data</data>
+  <data key="d2">Indicates the date and time when the data was last updated</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792449047</data>
+  <data key="d6"></data>
+</node>
+<node id="Nota">
+  <data key="d0">Nota</data>
+  <data key="d1">content</data>
+  <data key="d2">Provides reference definitions for testing purposes</data>
+  <data key="d3">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792449047</data>
+  <data key="d6"></data>
+</node>
+<node id="Argentina">
+  <data key="d0">Argentina</data>
+  <data key="d1">location</data>
+  <data key="d2">Argentina is the country in which the Monotributo regime applies to small taxpayers.&lt;SEP&gt;Unknown</data>
+  <data key="d3">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000&lt;SEP&gt;doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<node id="Small Taxpayers">
+  <data key="d0">Small Taxpayers</data>
+  <data key="d1">concept</data>
+  <data key="d2">Small Taxpayers are the group of taxpayers for whom the Monotributo regime is intended.</data>
+  <data key="d3">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792450564</data>
+  <data key="d6"></data>
+</node>
+<node id="Categories A to K">
+  <data key="d0">Categories A to K</data>
+  <data key="d1">concept</data>
+  <data key="d2">Categories A to K are the classification categories within the Monotributo regime.</data>
+  <data key="d3">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792450564</data>
+  <data key="d6"></data>
+</node>
+<node id="Billing Limits">
+  <data key="d0">Billing Limits</data>
+  <data key="d1">data</data>
+  <data key="d2">Billing Limits are the different turnover thresholds associated with Categories A to K.</data>
+  <data key="d3">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792450564</data>
+  <data key="d6"></data>
+</node>
+<node id="Categories">
+  <data key="d0">Categories</data>
+  <data key="d1">organization</data>
+  <data key="d2">Other</data>
+  <data key="d3">doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452779</data>
+  <data key="d6"></data>
+</node>
+<node id="Aportes autonomos">
+  <data key="d0">Aportes autonomos</data>
+  <data key="d3">doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000</data>
+  <data key="d2">Minimo 15000</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452779</data>
+  <data key="d6"></data>
+</node>
+<node id="Concept">
+  <data key="d0">Concept</data>
+  <data key="d3">doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000</data>
+  <data key="d2">Minimo 15000</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452779</data>
+  <data key="d6"></data>
+</node>
+<node id="QuantitativeData">
+  <data key="d0">QuantitativeData</data>
+  <data key="d3">doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000</data>
+  <data key="d2">Base_calculo 70000&lt;SEP&gt;Maximo 150000</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452779</data>
+  <data key="d6"></data>
+</node>
+<node id=".organization">
+  <data key="d0">.organization</data>
+  <data key="d3">doc-130142a30f3d5428a77b22c5793a7000-chunk-000</data>
+  <data key="d2">ARCA</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452848</data>
+  <data key="d6"></data>
+</node>
+<node id="Administración Nacional de la Seguridad Social">
+  <data key="d0">Administración Nacional de la Seguridad Social</data>
+  <data key="d3">doc-130142a30f3d5428a77b22c5793a7000-chunk-000</data>
+  <data key="d2">ARCA</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452848</data>
+  <data key="d6"></data>
+</node>
+<node id="Tasa de empleo">
+  <data key="d0">Tasa de empleo</data>
+  <data key="d1">concept</data>
+  <data key="d2">Other</data>
+  <data key="d3">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<node id="Tasa de desempleo">
+  <data key="d0">Tasa de desempleo</data>
+  <data key="d1">concept</data>
+  <data key="d2">Other</data>
+  <data key="d3">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<node id="Tasa de actividad">
+  <data key="d0">Tasa de actividad</data>
+  <data key="d1">concept</data>
+  <data key="d2">Other</data>
+  <data key="d3">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<node id="tasa_actividad">
+  <data key="d0">tasa_actividad</data>
+  <data key="d3">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d2">tasa_actividad</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<node id="tasa_empleo">
+  <data key="d0">tasa_empleo</data>
+  <data key="d3">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d2">tasa_empleo</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<node id="tasa_desempleo">
+  <data key="d0">tasa_desempleo</data>
+  <data key="d3">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d2">tasa_desempleo</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">unknown_source</data>
+  <data key="d5">1792452897</data>
+  <data key="d6"></data>
+</node>
+<edge source="AFIP/ARCA" target="Monotributo">
+  <data key="d7">1.0</data>
+  <data key="d8">AFIP/ARCA is the source that provides the Monotributo category information.</data>
+  <data key="d9">data source,provides</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="AFIP/ARCA" target="Tax regimes for freelancers">
+  <data key="d7">1.0</data>
+  <data key="d8">AFIP/ARCA provides tax regimes for freelancers.</data>
+  <data key="d9">provides</data>
+  <data key="d10">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448836</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category A">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category A as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category B">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category B as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category C">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category C as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category D">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category D as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category E">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category E as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category F">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category F as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category G">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category G as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category H">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category H as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category I">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category I as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category J">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category J as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Monotributo Category K">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Category K as one of its tax categories.</data>
+  <data key="d9">includes,tax category</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Update Date">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo category values are associated with the update date 2026-10-19T19:21:49.915069.</data>
+  <data key="d9">associated with,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Autonomous Contributions">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Autonomous Contributions as part of its tax regime structure.</data>
+  <data key="d9">includes,part of</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Tax regimes for freelancers">
+  <data key="d7">1.0</data>
+  <data key="d8">Tax regimes for freelancers includes the Monotributo system.</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448836</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Simplified regime for small taxpayers">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo is a simplified regime for small taxpayers.</data>
+  <data key="d9">is a</data>
+  <data key="d10">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448836</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Small Taxpayers">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo is a simplified regime intended for Small Taxpayers.</data>
+  <data key="d9">simplified regime for</data>
+  <data key="d10">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792450564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Argentina">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo is a regime for small taxpayers in Argentina.</data>
+  <data key="d9">applies in</data>
+  <data key="d10">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792450564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo" target="Categories A to K">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo includes Categories A to K.</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792450564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category A" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category A defines a billing limit of 7,575,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category A" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category A defines a monthly fee of 15,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category B" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category B defines a billing limit of 11,362,500.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category B" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category B defines a monthly fee of 22,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category C" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category C defines a billing limit of 15,150,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category C" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category C defines a monthly fee of 30,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category D" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category D defines a billing limit of 18,937,500.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category D" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category D defines a monthly fee of 40,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category E" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category E defines a monthly fee of 50,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category E" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category E defines a billing limit of 22,725,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category F" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category F defines a monthly fee of 60,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category F" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category F defines a billing limit of 26,512,500.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category G" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category G defines a monthly fee of 70,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category G" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category G defines a billing limit of 30,300,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category H" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category H defines a monthly fee of 90,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category H" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category H defines a billing limit of 37,875,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category I" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category I defines a monthly fee of 110,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category I" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category I defines a billing limit of 45,450,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category J" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category J defines a monthly fee of 130,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category J" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category J defines a billing limit of 53,025,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category K" target="Monthly Fee">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category K defines a monthly fee of 150,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Monotributo Category K" target="Billing Limit">
+  <data key="d7">1.0</data>
+  <data key="d8">Monotributo Category K defines a billing limit of 60,600,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autonomous Contributions" target="Minimum Autonomous Contribution">
+  <data key="d7">1.0</data>
+  <data key="d8">Autonomous Contributions defines a minimum contribution amount of 15,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autonomous Contributions" target="Maximum Autonomous Contribution">
+  <data key="d7">1.0</data>
+  <data key="d8">Autonomous Contributions defines a maximum contribution amount of 150,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autonomous Contributions" target="Base Calculation for Autonomous Contributions">
+  <data key="d7">1.0</data>
+  <data key="d8">Autonomous Contributions uses a base calculation value of 70,000.</data>
+  <data key="d9">defines,has attribute</data>
+  <data key="d10">doc-04421c412501a75b1027f8fb7c75764c-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448777</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Tax regimes for freelancers" target="Autónomos">
+  <data key="d7">1.0</data>
+  <data key="d8">Tax regimes for freelancers includes the Autónomos regime.</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448836</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Autónomos" target="General regime for self-employed workers">
+  <data key="d7">1.0</data>
+  <data key="d8">Autónomos is a general regime for self-employed workers.</data>
+  <data key="d9">is a</data>
+  <data key="d10">doc-843a888dd30892433e6811719762501f-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792448836</data>
+  <data key="d13"></data>
+</edge>
+<edge source="INDEC" target="Indicadores Del Mercado Laboral Argentino">
+  <data key="d7">1.0</data>
+  <data key="d8">INDEC produces and provides the labor market indicators for Argentina</data>
+  <data key="d9">produces,provides</data>
+  <data key="d10">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792449047</data>
+  <data key="d13"></data>
+</edge>
+<edge source="INDEC" target="tasa_actividad">
+  <data key="d7">1.0</data>
+  <data key="d8">tasa_actividad</data>
+  <data key="d9">Personas en edad de trabajar ocupadas o buscando empleo</data>
+  <data key="d10">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792452897</data>
+  <data key="d13"></data>
+</edge>
+<edge source="INDEC" target="tasa_empleo">
+  <data key="d7">1.0</data>
+  <data key="d8">tasa_empleo</data>
+  <data key="d9">Personas en edad de trabajar que están ocupadas</data>
+  <data key="d10">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792452897</data>
+  <data key="d13"></data>
+</edge>
+<edge source="INDEC" target="tasa_desempleo">
+  <data key="d7">1.0</data>
+  <data key="d8">tasa_desempleo</data>
+  <data key="d9">Personas en la fuerza de trabajo desocupadas</data>
+  <data key="d10">doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792452897</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Indicadores Del Mercado Laboral Argentino" target="Tasa Actividad">
+  <data key="d7">1.0</data>
+  <data key="d8">The set of labor market indicators includes the activity rate definition</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792449047</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Indicadores Del Mercado Laboral Argentino" target="Tasa Empleo">
+  <data key="d7">1.0</data>
+  <data key="d8">The set includes the employment rate definition</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792449047</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Indicadores Del Mercado Laboral Argentino" target="Tasa Desempleo">
+  <data key="d7">1.0</data>
+  <data key="d8">The set includes the unemployment rate definition</data>
+  <data key="d9">includes</data>
+  <data key="d10">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792449047</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Indicadores Del Mercado Laboral Argentino" target="Fecha Actualizacion">
+  <data key="d7">1.0</data>
+  <data key="d8">The timestamp indicates when the labor market indicators were last updated</data>
+  <data key="d9">updates</data>
+  <data key="d10">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792449047</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Indicadores Del Mercado Laboral Argentino" target="Nota">
+  <data key="d7">1.0</data>
+  <data key="d8">The note provides reference definitions for testing the labor market indicators</data>
+  <data key="d9">provides reference definitions for</data>
+  <data key="d10">doc-963f971ccfb27a827a5561f9958a946e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792449047</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Categories A to K" target="Billing Limits">
+  <data key="d7">1.0</data>
+  <data key="d8">Categories A to K have different Billing Limits.</data>
+  <data key="d9">vary by</data>
+  <data key="d10">doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792450564</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aportes autonomos" target="Concept">
+  <data key="d7">1.0</data>
+  <data key="d8">Minimo 15000</data>
+  <data key="d9">Other</data>
+  <data key="d10">doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792452779</data>
+  <data key="d13"></data>
+</edge>
+<edge source="Aportes autonomos" target="QuantitativeData">
+  <data key="d7">2.0</data>
+  <data key="d8">Base_calculo 70000&lt;SEP&gt;Maximo 150000</data>
+  <data key="d9">Measurement</data>
+  <data key="d10">doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792452779</data>
+  <data key="d13"></data>
+</edge>
+<edge source=".organization" target="Administración Nacional de la Seguridad Social">
+  <data key="d7">1.0</data>
+  <data key="d8">ARCA</data>
+  <data key="d9">Organization</data>
+  <data key="d10">doc-130142a30f3d5428a77b22c5793a7000-chunk-000</data>
+  <data key="d11">unknown_source</data>
+  <data key="d12">1792452848</data>
+  <data key="d13"></data>
+</edge>
+</graph></graphml>

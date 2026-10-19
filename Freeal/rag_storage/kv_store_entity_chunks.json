@@ -1,0 +1,463 @@
+{
+  "AFIP/ARCA": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000",
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1792448836,
+    "_id": "AFIP/ARCA"
+  },
+  "Monotributo": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000",
+      "doc-843a888dd30892433e6811719762501f-chunk-000",
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000",
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ],
+    "count": 4,
+    "update_time": 1792452779,
+    "_id": "Monotributo"
+  },
+  "Monotributo Category A": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category A"
+  },
+  "Monotributo Category B": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category B"
+  },
+  "Monotributo Category C": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category C"
+  },
+  "Monotributo Category D": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category D"
+  },
+  "Monotributo Category E": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category E"
+  },
+  "Monotributo Category F": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category F"
+  },
+  "Monotributo Category G": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category G"
+  },
+  "Monotributo Category H": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category H"
+  },
+  "Monotributo Category I": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category I"
+  },
+  "Monotributo Category J": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category J"
+  },
+  "Monotributo Category K": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monotributo Category K"
+  },
+  "Billing Limit": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Billing Limit"
+  },
+  "Monthly Fee": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Monthly Fee"
+  },
+  "Autonomous Contributions": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Autonomous Contributions"
+  },
+  "Minimum Autonomous Contribution": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Minimum Autonomous Contribution"
+  },
+  "Maximum Autonomous Contribution": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Maximum Autonomous Contribution"
+  },
+  "Base Calculation for Autonomous Contributions": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Base Calculation for Autonomous Contributions"
+  },
+  "Update Date": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Update Date"
+  },
+  "Reference Note": {
+    "chunk_ids": [
+      "doc-04421c412501a75b1027f8fb7c75764c-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "Reference Note"
+  },
+  "Tax regimes for freelancers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Tax regimes for freelancers"
+  },
+  "Simplified regime for small taxpayers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Simplified regime for small taxpayers"
+  },
+  "Autónomos": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Autónomos"
+  },
+  "General regime for self-employed workers": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "General regime for self-employed workers"
+  },
+  "Reference information for testing": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Reference information for testing"
+  },
+  "Update timestamp": {
+    "chunk_ids": [
+      "doc-843a888dd30892433e6811719762501f-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "Update timestamp"
+  },
+  "INDEC": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000",
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1792452897,
+    "_id": "INDEC"
+  },
+  "Mercado Laboral Argentino": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Mercado Laboral Argentino"
+  },
+  "Indicadores Del Mercado Laboral Argentino": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Indicadores Del Mercado Laboral Argentino"
+  },
+  "Tasa Actividad": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Tasa Actividad"
+  },
+  "Tasa Empleo": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Tasa Empleo"
+  },
+  "Tasa Desempleo": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Tasa Desempleo"
+  },
+  "Fecha Actualizacion": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Fecha Actualizacion"
+  },
+  "Nota": {
+    "chunk_ids": [
+      "doc-963f971ccfb27a827a5561f9958a946e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "Nota"
+  },
+  "Argentina": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000",
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 2,
+    "update_time": 1792452897,
+    "_id": "Argentina"
+  },
+  "Small Taxpayers": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "Small Taxpayers"
+  },
+  "Categories A to K": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "Categories A to K"
+  },
+  "Billing Limits": {
+    "chunk_ids": [
+      "doc-f72e083a1eea373081f8bce87c34d8c2-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "Billing Limits"
+  },
+  "Categories": {
+    "chunk_ids": [
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "Categories"
+  },
+  "Aportes autonomos": {
+    "chunk_ids": [
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "Aportes autonomos"
+  },
+  "Concept": {
+    "chunk_ids": [
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "Concept"
+  },
+  "QuantitativeData": {
+    "chunk_ids": [
+      "doc-7ce349737bc41ef3dce568a4e1f37f6e-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "QuantitativeData"
+  },
+  ".organization": {
+    "chunk_ids": [
+      "doc-130142a30f3d5428a77b22c5793a7000-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452848,
+    "update_time": 1792452848,
+    "_id": ".organization"
+  },
+  "Administración Nacional de la Seguridad Social": {
+    "chunk_ids": [
+      "doc-130142a30f3d5428a77b22c5793a7000-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452848,
+    "update_time": 1792452848,
+    "_id": "Administración Nacional de la Seguridad Social"
+  },
+  "Tasa de empleo": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "Tasa de empleo"
+  },
+  "Tasa de desempleo": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "Tasa de desempleo"
+  },
+  "Tasa de actividad": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "Tasa de actividad"
+  },
+  "tasa_actividad": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "tasa_actividad"
+  },
+  "tasa_empleo": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "tasa_empleo"
+  },
+  "tasa_desempleo": {
+    "chunk_ids": [
+      "doc-e4cb3988c2e85a412ba74576858d77f3-chunk-000"
+    ],
+    "count": 1,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "tasa_desempleo"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "fuente": "AFIP/ARCA",
+  "descripcion": "Categorías del Monotributo",
+  "fecha_actualizacion": "2026-10-19T20:31:04.405076",
+  "categorias": {
+    "A": {
+      "limite_facturacion": 7575000,
+      "cuota_mensual": 15000
+    },
+    "B": {
+      "limite_facturacion": 11362500,
+      "cuota_mensual": 22000
+    },
+    "C": {
+      "limite_facturacion": 15150000,
+      "cuota_mensual": 30000
+    },
+    "D": {
+      "limite_facturacion": 18937500,
+      "cuota_mensual": 40000
+    },
+    "E": {
+      "limite_facturacion": 22725000,
+      "cuota_mensual": 50000
+    },
+    "F": {
+      "limite_facturacion": 26512500,
+      "cuota_mensual": 60000
+    },
+    "G": {
+      "limite_facturacion": 30300000,
+      "cuota_mensual": 70000
+    },
+    "H": {
+      "limite_facturacion": 37875000,
+      "cuota_mensual": 90000
+    },
+    "I": {
+      "limite_facturacion": 45450000,
+      "cuota_mensual": 110000
+    },
+    "J": {
+      "limite_facturacion": 53025000,
+      "cuota_mensual": 130000
+    },
+    "K": {
+      "limite_facturacion": 60600000,
+      "cuota_mensual": 150000
+    }
+  },
+  "aportes_autonomos": {
+    "minimo": 15000,
+    "maximo": 150000,
+    "base_calculo": 70000
+  },
+  "nota": "Valores aproximados de referencia para pruebas"
+}

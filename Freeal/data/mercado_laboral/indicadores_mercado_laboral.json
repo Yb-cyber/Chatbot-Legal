@@ -1,0 +1,11 @@
+{
+  "fuente": "INDEC",
+  "descripcion": "Indicadores del mercado laboral argentino",
+  "fecha_actualizacion": "2026-10-19T20:31:04.428278",
+  "indicadores": {
+    "tasa_actividad": "Personas en edad de trabajar ocupadas o buscando empleo",
+    "tasa_empleo": "Personas en edad de trabajar que están ocupadas",
+    "tasa_desempleo": "Personas en la fuerza de trabajo desocupadas"
+  },
+  "nota": "Definiciones de referencia para pruebas"
+}

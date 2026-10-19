@@ -1,0 +1,36 @@
+{
+  "fuente": "AFIP/ARCA",
+  "descripcion": "Regímenes tributarios para freelancers",
+  "fecha_actualizacion": "2026-10-19T20:31:04.417250",
+  "regimenes": {
+    "monotributo": {
+      "descripcion": "Régimen simplificado para pequeños contribuyentes",
+      "categorias": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K"
+      ],
+      "obligaciones": [
+        "Facturación mensual",
+        "Pago de cuota mensual"
+      ]
+    },
+    "autonomos": {
+      "descripcion": "Régimen general para trabajadores autónomos",
+      "obligaciones": [
+        "Inscripción AFIP",
+        "Aportes seguridad social",
+        "Facturación"
+      ]
+    }
+  },
+  "nota": "Información de referencia para pruebas"
+}

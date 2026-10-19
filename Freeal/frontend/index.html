@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Freeal — Asistente Legal y Laboral</title>
+  <meta name="description" content="Chatbot legal y laboral inteligente para freelancers en Argentina. Consultas sobre contratos, monotributo, derechos laborales y facturación.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- Markdown Renderer & Sanitizer -->
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-layout">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="brand">
+        <div class="brand-logo">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            <path d="m9 12 2 2 4-4"/>
+          </svg>
+        </div>
+        <div class="brand-info">
+          <h1>Freeal</h1>
+          <span class="brand-tagline">Consultas Laborales & Freelance</span>
+        </div>
+      </div>
+
+      <div class="header-actions">
+        <div id="statusIndicator" class="status-badge" title="Estado de la conexión">
+          <span class="status-dot"></span>
+          <span class="status-text">Conectando...</span>
+        </div>
+        <button id="clearChatBtn" class="btn-ghost" title="Limpiar y reiniciar conversación">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M3 6h18"/>
+            <path d="M19 6v14c0 1-1 2-2 2H7c-1 0-2-1-2-2V6"/>
+            <path d="M8 6V4c0-1 1-2 2-2h4c1 0 2 1 2 2v2"/>
+          </svg>
+          <span>Reiniciar</span>
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Chat Container -->
+    <main class="chat-viewport">
+      <div class="chat-container" id="chatContainer">
+        <!-- Welcome Screen (shown when chat is empty) -->
+        <div id="welcomeScreen" class="welcome-screen">
+          <div class="welcome-icon">⚖️</div>
+          <h2>Tu asesor laboral y legal</h2>
+          <p>Especializado en legislación laboral argentina, locación de servicios, monotributo y derechos para profesionales y freelancers.</p>
+          
+          <div class="prompt-suggestions">
+            <button class="suggestion-chip" data-prompt="¿Cuáles son las diferencias clave entre un contrato de trabajo y uno de locación de servicios?">
+              📋 Locación de servicios vs. Relación de dependencia
+            </button>
+            <button class="suggestion-chip" data-prompt="¿Qué cláusulas esenciales no pueden faltar en un contrato freelance en Argentina?">
+              📝 Cláusulas esenciales en contratos freelance
+            </button>
+            <button class="suggestion-chip" data-prompt="¿Qué riesgos legales existen si un cliente me exige exclusividad horaria?">
+              ⚠️ Exclusividad horaria y presunción laboral
+            </button>
+            <button class="suggestion-chip" data-prompt="¿Cómo facturar servicios al exterior si soy Monotributista en Argentina?">
+              🌐 Monotributo y exportación de servicios
+            </button>
+          </div>
+        </div>
+
+        <!-- Message List -->
+        <div id="messageList" class="message-list"></div>
+
+        <!-- Typing / Loading indicator -->
+        <div id="typingIndicator" class="typing-indicator-container hidden">
+          <div class="typing-bubble">
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+          </div>
+          <span class="typing-text">Consultando jurisprudencia y normativa...</span>
+        </div>
+      </div>
+    </main>
+
+    <!-- Chat Input Area -->
+    <footer class="input-area">
+      <div class="input-container">
+        <textarea
+          id="userInput"
+          placeholder="Escribe tu consulta laboral o legal aquí... (Shift + Enter para salto de línea)"
+          rows="1"
+          autocomplete="off"
+        ></textarea>
+        <button id="sendBtn" class="send-btn" title="Enviar consulta" disabled>
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round">
+            <path d="m22 2-7 20-4-9-9-4Z"/>
+            <path d="M22 2 11 13"/>
+          </svg>
+        </button>
+      </div>
+      <div class="input-disclaimer">
+        <span>Las respuestas tienen fines informativos y de orientación jurídica preliminar.</span>
+      </div>
+    </footer>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

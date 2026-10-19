@@ -1,0 +1,115 @@
+{
+  "doc-04421c412501a75b1027f8fb7c75764c": {
+    "entity_names": [
+      "AFIP/ARCA",
+      "Autonomous Contributions",
+      "Base Calculation for Autonomous Contributions",
+      "Billing Limit",
+      "Maximum Autonomous Contribution",
+      "Minimum Autonomous Contribution",
+      "Monotributo",
+      "Monotributo Category A",
+      "Monotributo Category B",
+      "Monotributo Category C",
+      "Monotributo Category D",
+      "Monotributo Category E",
+      "Monotributo Category F",
+      "Monotributo Category G",
+      "Monotributo Category H",
+      "Monotributo Category I",
+      "Monotributo Category J",
+      "Monotributo Category K",
+      "Monthly Fee",
+      "Reference Note",
+      "Update Date"
+    ],
+    "count": 21,
+    "create_time": 1792448777,
+    "update_time": 1792448777,
+    "_id": "doc-04421c412501a75b1027f8fb7c75764c"
+  },
+  "doc-843a888dd30892433e6811719762501f": {
+    "entity_names": [
+      "AFIP/ARCA",
+      "Autónomos",
+      "General regime for self-employed workers",
+      "Monotributo",
+      "Reference information for testing",
+      "Simplified regime for small taxpayers",
+      "Tax regimes for freelancers",
+      "Update timestamp"
+    ],
+    "count": 8,
+    "create_time": 1792448836,
+    "update_time": 1792448836,
+    "_id": "doc-843a888dd30892433e6811719762501f"
+  },
+  "doc-963f971ccfb27a827a5561f9958a946e": {
+    "entity_names": [
+      "Fecha Actualizacion",
+      "INDEC",
+      "Indicadores Del Mercado Laboral Argentino",
+      "Mercado Laboral Argentino",
+      "Nota",
+      "Tasa Actividad",
+      "Tasa Desempleo",
+      "Tasa Empleo"
+    ],
+    "count": 8,
+    "create_time": 1792449047,
+    "update_time": 1792449047,
+    "_id": "doc-963f971ccfb27a827a5561f9958a946e"
+  },
+  "doc-f72e083a1eea373081f8bce87c34d8c2": {
+    "entity_names": [
+      "Argentina",
+      "Billing Limits",
+      "Categories A to K",
+      "Monotributo",
+      "Small Taxpayers"
+    ],
+    "count": 5,
+    "create_time": 1792450564,
+    "update_time": 1792450564,
+    "_id": "doc-f72e083a1eea373081f8bce87c34d8c2"
+  },
+  "doc-7ce349737bc41ef3dce568a4e1f37f6e": {
+    "entity_names": [
+      "Aportes autonomos",
+      "Categories",
+      "Concept",
+      "Monotributo",
+      "QuantitativeData"
+    ],
+    "count": 5,
+    "create_time": 1792452779,
+    "update_time": 1792452779,
+    "_id": "doc-7ce349737bc41ef3dce568a4e1f37f6e"
+  },
+  "doc-130142a30f3d5428a77b22c5793a7000": {
+    "entity_names": [
+      ".organization",
+      "Administración Nacional de la Seguridad Social"
+    ],
+    "count": 2,
+    "create_time": 1792452848,
+    "update_time": 1792452848,
+    "_id": "doc-130142a30f3d5428a77b22c5793a7000"
+  },
+  "doc-e4cb3988c2e85a412ba74576858d77f3": {
+    "entity_names": [
+      "Argentina",
+      "INDEC",
+      "Tasa de actividad",
+      "Tasa de desempleo",
+      "Tasa de empleo",
+      "tasa_actividad",
+      "tasa_desempleo",
+      "tasa_empleo"
+    ],
+    "count": 8,
+    "create_time": 1792452897,
+    "update_time": 1792452897,
+    "_id": "doc-e4cb3988c2e85a412ba74576858d77f3"
+  }
+}
