@@ -1,4 +1,4 @@
-# Freeal — Asistente RAG Legal 
+# Asistente RAG Legal 
 
 Sistema RAG local para consultas legales y tributarias 
 
